@@ -1,0 +1,175 @@
+id,name
+0,Approach
+1,Attach
+2,Bend deformation
+3,Bend break
+4,Bury in
+5,Close
+6,Cover
+7,Dig out
+8,Throw back
+9,Throw forward
+10,Drop into
+11,Drop aside
+12,Throw it on top
+13,Did not put in
+14,Fold
+15,Hit
+16,Hold
+17,Hold thing in the back
+18,Hold thing in the front
+19,Hold nearby
+20,Hold down
+21,Put it on the table
+22,Roll on a plane
+23,Roll down the slope
+24,Roll then roll down the slope
+25,Lift a surface without slide down
+26,Lift a surface then slide down
+27,Lift without falling
+28,Lift and drop
+29,Lift
+30,Lift one end without falling
+31,Lift one end then drop
+32,Move away
+33,Move part
+34,Move and fall
+35,Move without falling
+36,Separate
+37,Close to each other
+38,Crash
+39,Pass by
+40,Remove
+41,Move out
+42,Move closer
+43,Move down
+44,Move inward
+45,Move up
+46,Open
+47,Pick up
+48,Pile up
+49,Plug into
+50,Plug into and pull out
+51,Poke a hole
+52,Poke a hole in soft
+53,Poke stack collapse
+54,Poke stack without collapse
+55,Poke and slightly moves
+56,Poke lightly without move
+57,Poke fall over
+58,Poke to rotate
+59,Pour into
+60,Pour into until overflow
+61,Pour onto
+62,Pour out
+63,Fail to wipe
+64,Fail to twist
+65,Fail to tear
+66,Fail to close
+67,Fail to open
+68,Fail to pick up
+69,Fail to poke
+70,Fail to pour
+71,Fail to put behind
+72,Fail to put into
+73,Fail to put next to
+74,Fail to put on a surface
+75,Fail to put onto
+76,Fail to put underneath
+77,Fail to scoop up
+78,Pretend to spread air onto
+79,Pretend to sprinkle air onto
+80,Fail to squeeze
+81,Pretend to take
+82,Pretend to take out
+83,Pretend to throw
+84,Pretend to turn upside down
+85,Pull from behind
+86,Pull from left to right
+87,Pull from right to left
+88,Pull onto
+89,Pull out
+90,Fail to pull two ends
+91,Stretch two ends
+92,Pull and separate two ends
+93,Push from left to right
+94,Push from right to left
+95,Push off
+96,Push onto
+97,Push spin
+98,Push and not fall
+99,Push it off table
+100,Push and slightly moves
+101,Push
+102,Put onto
+103,Put on the table
+104,Put behind
+105,Put in front
+106,Put into
+107,Put aside
+108,Put on plane without rolling
+109,Put on a surface
+110,Put on the edge and falls down
+111,Put on the slope without rolling
+112,Stack
+113,Stack and fall
+114,Put similar one on the table
+115,Put on the slope and roll
+116,Put on the slope and do not roll
+117,Put on the table and fall down
+118,Put underneath
+119,Put upright on table
+120,Put more on table
+121,Remove and reveal
+122,Roll on plane
+123,Scoop up
+124,Show photo
+125,Show behind
+126,Show beside
+127,Show on top
+128,Show
+129,Show empty
+130,Show inside
+131,Deflect
+132,Collide then deflect
+133,Collide then halt
+134,Falling slowly
+135,Rapid fall
+136,Spill behind
+137,Spill beside
+138,Spill onto
+139,Spin to keep spinning
+140,Spin to stop spinning
+141,Spread onto
+142,Sprinkle onto
+143,Squeeze
+144,Stack multiple
+145,Stuff into
+146,Put the same on the table
+147,Take
+148,Take out of
+149,Tear into two pieces
+150,Tear a little
+151,Throw
+152,Throw at objects
+153,Throw in the air and catch
+154,Throw in the air without catch
+155,Throw onto a surface
+156,Slightly tilt to not fall
+157,Tilt until it falls
+158,Tip over
+159,Tip over then pour out
+160,Touch without move
+161,Failed to stick
+162,Failure to bend
+163,Fail to pour in and leak out
+164,Turn upside down
+165,Turn downwards while filming
+166,Turn left while filming
+167,Turn right while filming
+168,Turn upwards while filming
+169,Wring out water
+170,Twist
+171,Uncover
+172,Unfold
+173,Wipe off

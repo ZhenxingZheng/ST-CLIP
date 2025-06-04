@@ -1,0 +1,23 @@
+DATA:
+    ROOT: '../../Datasets/'
+    TRAIN_FILE: '../../Datasets/list/jester_train.txt'
+    VAL_FILE: '../../Datasets/list/jester_val.txt'
+    DATASET: jester
+    NUM_FRAMES: 8
+    NUM_CLASSES: 27
+    LABEL_LIST: 'labels/jester_27_labels.csv'
+MODEL:
+    ARCH: ViT-B/16
+    RESUME: '/home/zhenxing/userfiles/zhengzhenxing/VideoX-clip/X-CLIP/exp/jester/ViT-B/16/2024-10-23-16:39:48/best.pth'
+    PRETRAINED: None
+TRAIN:
+    BATCH_SIZE: 32
+    ACCUMULATION_STEPS: 8
+    EPOCHS: 30
+    LR: 8.e-6
+TEST:
+    NUM_CLIP: 4
+    NUM_CROP: 3
+    ONLY_TEST: True
+    BATCH_SIZE: 8
+OUTPUT: 'exp'
